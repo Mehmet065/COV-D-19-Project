@@ -1,8 +1,10 @@
 # COVID-19-Project
+
 Problem;
+
  The effects of the difficulty of finding jobs and internships on new graduates during the epidemic period.
 
-Problem Identification;,
+STEP - A :Problem Identification;,
 
 For a while, our lifestyles and conditions have changed due to the epidemic disease, Covid-19.
 As a result, the factors most affected by this situation were our education and working conditions.
