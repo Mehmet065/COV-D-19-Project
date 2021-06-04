@@ -23,3 +23,19 @@ Digital education platforms were in high demand. Students became able to access 
 Students who are graduates of the years 2020-2021, who have great difficulties in finding internships and beginner-level jobs, have started to look for many ways to find jobs in different fields.
 At the same time, existing employees had to be fired, found another job or changed their current working conditions.
 Governments and companies alike are applying for layoffs in some jobs, but have difficulty finding experienced staff to work in some areas.
+
+Step – B: About Data;
+
+Data collection;
+The datasets I think I need are;
+How many students are there in Turkey?
+https://sgb.meb.gov.tr/www/icerik_goruntule.php?KNO=396
+https://statistik.yok.gov.tr/
+Internet access opportunities in Turkey.
+https://www.oecd.org/education/Turkey-coronavirus-education-country-note.pdf
+Covid period unemployment data.
+https://www.sbb.gov.tr/ocak-2021-istihdam-verileri/
+
+
+Visualization Tools;
+I prefer to use Google Data Studio for visualization, ease of use, clean and simple structure are important factors for me to choose compatibility in terms of optimization.
