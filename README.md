@@ -1,5 +1,13 @@
 # COVID-19-Project
 
+Presentation Video Link;
+https://drive.google.com/file/d/1k3e21_pLWdjoBBitXzt8LPuUufwKUjgD/view?usp=sharing
+
+Project Files Drive Link;
+https://drive.google.com/drive/folders/1D56PIuat0SweBA981btKrRMuM8QoVso6?usp=sharing
+
+
+
 Problem;
 
  The effects of the difficulty of finding jobs and internships on new graduates during the epidemic period.
