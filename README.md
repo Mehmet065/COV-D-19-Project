@@ -10,7 +10,7 @@ https://drive.google.com/drive/folders/1D56PIuat0SweBA981btKrRMuM8QoVso6?usp=sha
 
 Problem;
 
- The effects of the difficulty of finding jobs and internships on new graduates during the epidemic period.
+ The effects of the difficulty of education and internet connection rates in Turkey.
 
 
 Problem Identification;
